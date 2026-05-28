@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-<img src="https://camo.githubusercontent.com/a6a21f3de4b798d9e41325f9cc8b3412f6ab4fae3eebbb7df7e29b2c5b6309df/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f663369774a464f564f777579374b364646772f67697068792e676966"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="380"/>
 </p>
 
 ---
@@ -54,6 +54,7 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vedika51215&theme=radical"/>
 </p>
+
 ---
 
 <h2 align="center">📈 GitHub Activity Graph</h2>
@@ -63,6 +64,7 @@
 </p>
 
 ---
+
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
@@ -70,6 +72,7 @@
 </p>
 
 ---
+
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
