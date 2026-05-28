@@ -11,6 +11,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E50914&center=true&vCenter=true&width=500&lines=Engineering+secure+web+experiences.;Hunting+bugs+in+the+Upside+Down.;Building+full-stack+projects." />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vedika51215&theme=radical&no-bg=true&margin-w=15&no-frame=true" alt="github trophies" />
+</p>
+
 ---
 
 <h2 align="center">🧑‍💻 About Me</h2>
@@ -51,6 +55,22 @@
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vedika51215&theme=radical" width="60%" />
+</p>
+
+---
+
+<h2 align="center">📈 GitHub Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedika51215&bg_color=050505&color=ffffff&line=E50914&point=ffffff&area=true&hide_border=true" width="100%" alt="github activity graph" />
+</p>
+
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vedika51215/Vedika51215/output/github-contribution-grid-snake.svg" alt="github contribution grid snake" />
 </p>
 
 ---
