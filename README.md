@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/V2ojLo7PyygYB423AX/giphy.gif" width="380"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZlMmR1bWlhaGpuZDVzNWh4eG53dW11dXZlZm9ndHoyZGU4cjN3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3knKct3fGqxhK/giphy.gif" width="380"/>
 </p>
 
 ---
@@ -49,16 +49,11 @@
 
 ---
 
-<h2 align="center">📊 GitHub Statistics</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vedika51215&theme=radical" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedika51215&theme=radical&background=050505&ring=E50914&fire=E50914&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&currStreakLabel=ffffff" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vedika51215&theme=radical"/>
 </p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vedika51215&theme=radical" width="60%" />
-</p>
-
 ---
 
 <h2 align="center">📈 GitHub Activity Graph</h2>
@@ -68,7 +63,13 @@
 </p>
 
 ---
+<h2 align="center">🔥 GitHub Streak</h2>
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedika51215&theme=radical&background=050505&ring=E50914&fire=E50914&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&currStreakLabel=ffffff"/>
+</p>
+
+---
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
@@ -83,14 +84,6 @@
 <a href="mailto:vedikapatel540@gmail.com"><img src="https://img.shields.io/badge/Email-vedikapatel540@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/vedika-patel-1193a330b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Vedika%20Patel-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Vedika51215"><img src="https://img.shields.io/badge/GitHub-Vedika51215-181717?style=flat-square&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-<h2 align="center">👀 Visitor Count</h2>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Vedika51215&label=Profile+Views&color=e50914&style=flat"/>
 </p>
 
 ---
