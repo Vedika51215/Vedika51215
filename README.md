@@ -59,15 +59,17 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedika51215&bg_color=050505&color=ffffff&line=E50914&point=ffffff&area=true&hide_border=true" width="100%" alt="github activity graph" />
 </p>
+
 ---
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vedika51215&theme=radical&no-bg=true&margin-w=15&no-frame=true&column=-1" alt="github trophies" />
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=Vedika51215&theme=radical&no-bg=true&margin-w=15&no-frame=true&column=-1" alt="github trophies" />
 </p>
 
 ---
+
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
