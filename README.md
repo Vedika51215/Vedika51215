@@ -46,8 +46,11 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vedika51215&show_icons=true&theme=radical&title_color=E50914&icon_color=E50914&bg_color=050505&text_color=ffffff&border_color=222222" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedika51215&layout=compact&theme=radical&title_color=E50914&icon_color=E50914&bg_color=050505&text_color=ffffff&border_color=222222" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vedika51215&theme=radical" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedika51215&theme=radical&background=050505&ring=E50914&fire=E50914&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&currStreakLabel=ffffff" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vedika51215&theme=radical" width="60%" />
 </p>
 
 ---
