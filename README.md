@@ -4,6 +4,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:E50914,100:050505&text=Vedika%20Patel&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/gh-badges/hits?username=Vedika51215&label=PROFILE+VIEWS&style=flat-square&color=e50914" alt="profile views" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Vedika!</h1>
 <h3 align="center">💻 Computer Engineering Student • Cyber Security Enthusiast • Web Developer</h3>
 
