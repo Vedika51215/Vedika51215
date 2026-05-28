@@ -4,9 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:E50914,100:050505&text=Vedika%20Patel&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/gh-badges/hits?username=Vedika51215&label=PROFILE+VIEWS&style=flat-square&color=e50914" alt="profile views" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Vedika!</h1>
 <h3 align="center">💻 Computer Engineering Student • Cyber Security Enthusiast • Web Developer</h3>
@@ -85,4 +83,18 @@
 <a href="mailto:vedikapatel540@gmail.com"><img src="https://img.shields.io/badge/Email-vedikapatel540@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/vedika-patel-1193a330b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Vedika%20Patel-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Vedika51215"><img src="https://img.shields.io/badge/GitHub-Vedika51215-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<h2 align="center">👀 Visitor Count</h2>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Vedika51215&label=Profile+Views&color=e50914&style=flat"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:E50914,100:050505&section=footer"/>
 </p>
