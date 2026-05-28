@@ -1,0 +1,61 @@
+<!-- ================= HEADER ================= -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:E50914,100:050505&text=Vedika%20Patel&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Vedika!</h1>
+<h3 align="center">💻 Computer Engineering Student • Cyber Security Enthusiast • Web Developer</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E50914&center=true&vCenter=true&width=500&lines=Engineering+secure+web+experiences.;Hunting+bugs+in+the+Upside+Down.;Building+full-stack+projects." />
+</p>
+
+---
+
+<h2 align="center">🧑‍💻 About Me</h2>
+
+<p align="center">
+🎓 Computer Engineering Student <br>
+🔐 Passionate about Cyber Security &amp; Ethical Hacking <br>
+🌐 Exploring Networking (Wireshark, Nmap, Packet Captures) <br>
+🚀 Crafting Web Interfaces with React &amp; Next.js <br>
+✨ I love building creative and secure tech projects
+</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/V2ojLo7PyygYB423AX/giphy.gif" width="380"/>
+</p>
+
+---
+
+<h2 align="center">⚙️ Tech Stack &amp; Tools</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,py,mysql,git,github,vscode,visualstudio"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Security-Ethical%20Hacking-E50914?style=for-the-badge&logo=hackerone&logoColor=white"/>
+<img src="https://img.shields.io/badge/Networking-Nmap%20%26%20Wireshark-004482?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-Logical-yellow?style=for-the-badge&logo=codeforces&logoColor=black"/>
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vedika51215&show_icons=true&theme=radical&title_color=E50914&icon_color=E50914&bg_color=050505&text_color=ffffff&border_color=222222" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedika51215&layout=compact&theme=radical&title_color=E50914&icon_color=E50914&bg_color=050505&text_color=ffffff&border_color=222222" width="48%" />
+</p>
+
+---
+
+<h2 align="center">📬 Connect with Me</h2>
+
+<p align="center">
+<a href="mailto:vedikapatel540@gmail.com"><img src="https://img.shields.io/badge/Email-vedikapatel540@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vedika-patel-1193a330b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Vedika%20Patel-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Vedika51215"><img src="https://img.shields.io/badge/GitHub-Vedika51215-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
